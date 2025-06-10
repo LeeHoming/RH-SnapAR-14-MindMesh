@@ -12263,7 +12263,6 @@
   ScriptAsset: !<reference> d5ef2a51-66a4-4fda-93c0-d094de949e4b
   ScriptInputsDefault:
     openAIKey: true
-    context: true
     isStoryMode: true
   ScriptTypesDefault:
     {}
@@ -12275,13 +12274,13 @@
       keyText2: !<reference.Text> 3b358b39-a377-4138-a595-5aafbd43020b
       keyText3: !<reference.Text> 2b5bc1e9-ec86-4c0b-9a36-1ca3ba993fb2
       keyText4: !<reference.Text> bc146bdc-b92b-4f2f-a25f-7326d7614558
-      context: ""
+      context: Grocery
       keywords: !<string[]>
         - Halibo
         - Short Rib
         - Ice Cream
         - Doritos
-        - Desk
+        - Coconut Water
       isUnviel: true
       isStoryMode: false
       hintTexts: !<string[]>
@@ -28530,7 +28529,7 @@
   ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
   ShadowDensity: 1.000000
   Materials:
-    - !<reference> 2220aeab-837f-4013-bbc6-59901b2054c6
+    - !<reference> 37a4b4c0-8f4c-4c97-a55a-7bd4da888190
   FlipX: false
   FlipY: false
   RotationAngle: 0
