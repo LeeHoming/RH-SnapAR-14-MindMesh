@@ -125,8 +125,8 @@
         typeIdx: 1
         value: 0.200000
     - Port_Input1_N013:
-        typeIdx: 1
-        value: 0.100000
+        typeIdx: 5
+        value: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
     - Port_Input1_N014:
         typeIdx: 5
         value: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
@@ -306,6 +306,9 @@
     PreviewEnabled:
       typeIdx: 0
       value: 0
+    Tweak_N12:
+      typeIdx: 5
+      value: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
     alphaTestThreshold:
       typeIdx: 1
       value: 0.100000
